@@ -1,6 +1,6 @@
 # Data Analysis | Data Science | Machine Learning
 ## 1. Gun Violence, USA (working on)
-**[US Mass Shootings, 1982–2023](https://github.com/redrum88/data_science/blob/main/data/shooting_1982-2023_clean.csv)** |
+**[US Mass Shootings, 1982–2023](https://github.com/redrum88/data_science/blob/main/data/shooting_1982-2023_cleaned.csv)** |
 
 *Gun ownership in the United States is the highest in the world, and constitutionally protected by the Second Amendment to the United States Constitution. Firearms are widely used in the United States for self-defence, hunting, and recreational uses, such as target shooting.*
 

@@ -1,4 +1,4 @@
-# Data Science
+# Data Analysis | Data Science | Machine Learning
 ## 1. Gun Violence, USA
 **US Mass Shootings, 1982–2023**
 

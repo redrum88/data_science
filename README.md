@@ -1,10 +1,18 @@
 # Data Analysis | Data Science | Machine Learning
-## 1. Gun Violence, USA
-**US Mass Shootings, 1982–2023**
+## 1. Gun Violence, USA & US Elections (working on)
+**[US Mass Shootings, 1982–2023](https://github.com/redrum88/data_science/blob/main/data/shooting_1982-2023_clean.csv)** |
+**[US President Elections 1976-2020](https://github.com/redrum88/data_science/blob/main/data/1976-2020-president.csv)** | 
+**[US Senate Elections 1976-2020](https://github.com/redrum88/data_science/blob/main/data/1976-2020-senate.csv)**
 
 *Gun ownership in the United States is the highest in the world, and constitutionally protected by the Second Amendment to the United States Constitution. Firearms are widely used in the United States for self-defence, hunting, and recreational uses, such as target shooting.*
 
-https://www.kaggle.com/datasets/nidzsharma/us-mass-shootings-19822023
+[Gun Violence, USA - US Mass Shootings, 1982–2023 Dataset from Kaggle](https://www.kaggle.com/datasets/nidzsharma/us-mass-shootings-19822023)
+
+And
+
+[US Elections President/Senate 1976-2020 Dataset from Kaggle.com](https://www.kaggle.com/datasets/tunguz/us-elections-dataset): `1976-2020-president.csv`, `1976-2020-senate.csv`
+
+Analysis of Mass Shooting in US and US President/Senate in power.
 
 [![https://github.com/redrum88/data_science/blob/main/shooting_1982_2023.ipynb](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/redrum88/data_science/blob/main/shooting_1982_2023.ipynb) or [view in GitHub](https://github.com/redrum88/data_science/blob/main/shooting_1982_2023.ipynb)
 

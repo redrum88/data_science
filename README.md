@@ -2,7 +2,10 @@
 ## 1. Gun Violence, USA (working on)
 **[US Mass Shootings, 1982–2023](https://github.com/redrum88/data_science/blob/main/data/shooting_1982-2023_cleaned.csv)** |
 
-<iframe src="https://kedevo.com/plots/usa_mass_shooting.html" width="100%" height="500px"></iframe>
+⚠️ You can find Interactive Detailed US Mass Shooting Map [HERE](https://redrum88.github.io/usa_mass_shooting.html)
+
+
+![USA Mass Shootings Detailed Map](https://redrum88.github.io/map.jpg)
 
 
 *Gun ownership in the United States is the highest in the world, and constitutionally protected by the Second Amendment to the United States Constitution. Firearms are widely used in the United States for self-defence, hunting, and recreational uses, such as target shooting.*

@@ -21,4 +21,10 @@ https://www.kaggle.com/datasets/tariqbashir/world-university-ranking-2023
 
 > ⚠️Note: Dataset used for this notebook is edited. Merged odd and even rows from original csv.
 
-[![https://github.com/redrum88/data_science/blob/main/shooting_1982_2023.ipynb](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/redrum88/data_science/blob/main/world_universities_ranking_2023.ipynb) or [view in GitHub](https://github.com/redrum88/data_science/blob/main/world_universities_ranking_2023.ipynb)
+[![https://github.com/redrum88/data_science/blob/main/world_universities_ranking_2023.ipyn](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/redrum88/data_science/blob/main/world_universities_ranking_2023.ipynb) or [view in GitHub](https://github.com/redrum88/data_science/blob/main/world_universities_ranking_2023.ipynb)
+
+## 3. UK Crimes 2023 January
+
+https://github.com/redrum88/data_science/blob/main/uk_crimes_2023_01.ipynb
+
+[![https://github.com/redrum88/data_science/blob/main/uk_crimes_2023_01.ipynb](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/redrum88/data_science/blob/main/uk_crimes_2023_01.ipynb) or [view in GitHub](https://github.com/redrum88/data_science/blob/main/uk_crimes_2023_01.ipynb)
